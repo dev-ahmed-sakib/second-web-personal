@@ -163,7 +163,8 @@
 .details-container {
     padding-top: 160px;
 }
-.details-container h1,h3,h4,p,h2{
+.details-container {
+    margin: auto;
     text-align: center;
 }
 .details-container > h1{
@@ -212,4 +213,5 @@
     margin: 50px 0;
     font-size: 1.1rem;
     color: gray;
+    text-align: center;
 }
